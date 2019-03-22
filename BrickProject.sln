@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickProject", "BrickProject\BrickProject.csproj", "{3065569F-C5D2-4990-8669-57DEBB76E9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickProjectTests", "BrickProjectTests\BrickProjectTests.csproj", "{514A1993-817F-4D4B-8743-C821BDC979ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3065569F-C5D2-4990-8669-57DEBB76E9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3065569F-C5D2-4990-8669-57DEBB76E9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3065569F-C5D2-4990-8669-57DEBB76E9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3065569F-C5D2-4990-8669-57DEBB76E9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514A1993-817F-4D4B-8743-C821BDC979ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514A1993-817F-4D4B-8743-C821BDC979ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514A1993-817F-4D4B-8743-C821BDC979ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514A1993-817F-4D4B-8743-C821BDC979ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571FD276-7596-43B4-B83C-3F480ECCEE92}
+	EndGlobalSection
+EndGlobal
